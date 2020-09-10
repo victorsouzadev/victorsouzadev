@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **victorsouzadev/victorsouzadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Victor Souza
+Graduação em andamento no curso de Sistema de Informação na Universidade Federal do Sul e Sudeste do Pará. Dentre as principais áreas que o curso possibilita possui maior afinidade em atividades de machine learning, data science e o desenvolvimento de aplicações web e mobile. No âmbito acadêmico atua constantemente em diversas atividades como estagio não obrigatório, projetos de pesquisa, extensão, ensino a atividades administrativas (Centro Acadêmico).
